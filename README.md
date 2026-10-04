@@ -1,9 +1,13 @@
-# CourseDecoder
-  The problem is that many students are anxious about what exactly they need to do to achieve a certain grade in a class. This leads them to extensively use manual grade calculators and stress whether they should do this assignment or skip studying for this test. My app Course Decoder is an adaptive planning system that lets the student know exactly what they have to do to reach their target grade with the time they have.
-  
-  Students input a course’s grading system, policies (like rounding and assignment weights), and how much time they can realistically spend. The app then generates three adaptive plans to reach their target grade: a minimum-effort plan focused on high-impact work (greated ROI), a balanced plan that maximizes likelihood of success, and a safety plan that builds in a buffer.
-  
-  The platform minimizes manual effort by automatically structuring each course into a simple gradebook-style interface, where students only need to enter assignment names, scores, and point values. If information like point value is missing, the system uses past assignment patterns to estimate a recommendation, and then updates it once point value is added.
-  
-  After each lecture or assignment, students quickly input updates, and the system continuously adjusts the plans in real time. Each recommendation within a plan includes grade impact and a confidence level in the plan, ensuring transparency while helping students understand where their time will have the greatest effect. 
-  Overall, Course Decoder transforms grade uncertainty into a clear, data-driven action plan, allowing students to allocate their time with confidence.
+# LockIn AI — Build Better Focus
+
+LockIn AI is a focus extension designed to help you stay on task by recognizing when a website is pulling you away from what you intended to do.
+
+Choose between two modes:
+
+Engagement Bar Mode
+LockIn AI measures how engaging a website is based on factors such as scrolling, interaction, content turnover, feeds, and reward mechanisms. You choose an engagement threshold, and when a site's engagement becomes too high, LockIn AI can automatically block it. Your threshold can also gradually decrease over time to help you build tolerance for distraction.
+
+Goal-Oriented Mode
+Tell LockIn AI what you're currently trying to accomplish, or let it generate an achievable goal based on your interests, strengths, and available time. LockIn AI analyzes the content of the websites you visit and blocks sites that are unrelated to your current goal.
+
+When a site is blocked, LockIn AI can replace it with a short mental transition featuring an expanding geometric shape and a puzzle to calm you down.
